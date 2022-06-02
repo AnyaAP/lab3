@@ -2,7 +2,7 @@
 
    <Task 1>
     
-    Создание CMakeLists.txt для автоматической сборки данной библиотеки
+   1. Создание CMakeLists.txt для автоматической сборки данной библиотеки
 ```
 $ cd formatter_lib
 $ cat > CMakeLists.txt <<EOF
